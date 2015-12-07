@@ -1,12 +1,12 @@
 {
     "version": "0.7.0",
-    "name": "de.appplant.cordova.plugin.badge",
+    "name": "com.socosm.cordova.plugin.badge",
     "cordova_name": "Cordova Badge Plugin",
     "description": "Cordova plugin to access and modify the badge number of the app icon",
     "author": "Sebastián Katzer",
     "license": "Apache 2.0",
-    "repo": "https://github.com/katzer/cordova-plugin-badge.git",
-    "issue": "https://github.com/katzer/cordova-plugin-badge/issues",
+    "repo": "https://github.com/hermandroid/cordova-plugin-badge.git",
+    "issue": "https://github.com/hermandroid/cordova-plugin-badge/issues",
     "keywords": [
         "appplant",
         "badge",
@@ -35,6 +35,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/katzer/cordova-plugin-badge.git"
+        "url": "https://github.com/hermandroid/cordova-plugin-badge.git"
     }
 }
