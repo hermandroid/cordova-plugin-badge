@@ -25,7 +25,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="com.socosm.cordova.plugin.badge"
-        version="1.0.1">
+        version="1.0.2">
 
     <name>Cordova Badge Plugin</name>
 
@@ -76,6 +76,9 @@
 
         <header-file src="src/ios/UIApplication+APPBadge.h" />
         <source-file src="src/ios/UIApplication+APPBadge.m" />
+
+        <header-file src="src/ios/AppDelegate+APPRegisterUserNotificationSettings.h" />
+        <source-file src="src/ios/AppDelegate+APPRegisterUserNotificationSettings.m" />
 
     </platform>
 
